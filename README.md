@@ -5,7 +5,7 @@ I am a recruiter focused on early stage, VC backed startups. This repo is a livi
 
 If you are a strong frontend engineer who wants ownership of a quickly growing saas platform, read more below. 
 
-Role details: see [role.md](./role.md)
+Role details: see [hiring](./hiring)
 
 Last updated: Jan 2026
 Contact:
